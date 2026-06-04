@@ -83,7 +83,7 @@ Data storytelling project using Statistics Canada Census data to explore how geo
 - CFA Level I Candidate 2026
 - AWS Certified Cloud Practitioner 2026
 - Databricks Fundamentals Accreditation 
-- Certified in Cybersecurity (CC) 2036
+- Certified in Cybersecurity (CC) 2026
 - Microsoft Azure Fundamentals 2026
 - Professional Leadership Certification, University of Oxford
 
