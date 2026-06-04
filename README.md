@@ -1,19 +1,17 @@
-# Hi, Hola, Bonjour, I'm Daniel
+# Hi, Hola, Bonjour, Oi, Hallo, I'm Daniel 🌎
 
-I'm passionate about understanding how data, people, and institutions shape the world around us.
-
-My journey has taken me from volunteering in communities across Latin America, to researching human rights and governance in Germany, to analyzing economic trends, building machine learning models, and creating data-driven solutions for organizations. Along the way, I've realized that the problems that interest me most rarely belong to a single discipline. They sit somewhere between data science, economics, public policy, business, and human behavior.
-
-I recently completed my studies in Statistics and Economics at the University of Toronto and am currently pursuing a Master of Management in Analytics at McGill University.
-
-What excites me most about analytics is not the model itself, but the story behind it. Whether it's understanding why human rights defenders face greater risks, forecasting economic trends, analyzing financial markets, or helping organizations make better decisions, I enjoy using data to answer meaningful questions and uncover insights that might otherwise go unnoticed.
-
-Outside of academics and analytics, I'm a long-distance runner, language learner, traveler, and community builder. Running has taught me patience and resilience. Traveling has taught me perspective. Working with people from different backgrounds has taught me that some of the most valuable lessons come from conversations, not classrooms.
+**Statistics & Economics Graduate from the University of Toronto | Master of Management in Analytics (MMA) Student at McGill University**
 
 [![Website](https://img.shields.io/badge/Website-cudapuca.base44.app-black?style=for-the-badge)](https://cudapuca.base44.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Puente-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/danielpuente/)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielpuent02@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-danielpuent02%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielpuent02@gmail.com)
 [![Instagram](https://img.shields.io/badge/Running-dandrunner-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dandrunner)
+
+I'm a **Statistics, Mathematics, and Economics** graduate from the University of Toronto and a **Master of Management in Analytics (MMA)** student at McGill University. I'm passionate about using data to better understand people, economies, and the forces that shape our world.
+
+My journey has taken me from volunteering in communities across Latin America to conducting research on human rights and governance in Germany, building machine learning models, forecasting economic trends, and developing analytics solutions. Along the way, I've learned that the most interesting challenges rarely fit into a single category. They often lie at the intersection of data, business, policy, and human behavior.
+
+Outside of analytics, I'm a marathon runner, traveler, language learner, and community builder. Whether I'm analyzing a dataset, exploring a new country, or training for a race, I'm driven by curiosity, continuous learning, and the belief that meaningful impact starts with asking good questions.
 
 ---
 
@@ -30,27 +28,27 @@ Outside of academics and analytics, I'm a long-distance runner, language learner
 
 ## Background
 
-- Statistics & Economics Graduate, University of Toronto
 - Master of Management in Analytics (MMA), McGill University
+- Statistics & Economics Graduate, University of Toronto
 - Research Fellow, Goethe University Frankfurt & Peace Research Institute Frankfurt (PRIF)
 - Founder & President, ALPFA Toronto Student Chapter
 - President, Organization of Latin American Students (OLAS)
 - Research Assistant, University of Toronto
-- Data Analyst and Macroeconomic Research Experience Across Multiple Organizations
+- Macroeconomic Research Analyst & Data Analyst
 
 ---
 
-## Featured Projects
+## Featured Projects here :)
 
 ### Violence Against Human Rights Defenders
 
-International research project conducted in Germany combining machine learning, econometrics, and public policy to analyze patterns of violence against human rights activists around the world.
+International research project conducted in Germany combining machine learning, econometrics, and public policy to analyze patterns of violence against human rights activists worldwide.
 
-**Tools:** Python, Machine Learning, Econometrics, Data Visualization, Random Forest, GEE Models
+**Tools:** Python, Machine Learning, Random Forest, GEE Models, Econometrics, Data Visualization
 
 ### Macroeconomic Forecasting with VAR, VECM, and Threshold Models
 
-Econometric forecasting project exploring long-run relationships between GDP, inflation, unemployment, and interest rates using advanced time-series methods.
+Forecasting GDP, inflation, unemployment, and interest rates using advanced time-series econometric methods.
 
 **Tools:** Python, R, VAR, VECM, TVAR, Cointegration Analysis
 
@@ -62,15 +60,9 @@ Quantitative finance project focused on volatility forecasting, Value at Risk (V
 
 ### Education, Income, and Geography in Canada
 
-Data storytelling project using Statistics Canada Census data to explore how location influences the economic returns to education across Canada.
+Data storytelling project using Statistics Canada Census data to explore how geography influences the economic returns to education.
 
 **Tools:** R, Data Visualization, Survey Statistics, Public Policy Analytics
-
-### Latin America Macroeconomic Dashboard
-
-Interactive Power BI dashboards analyzing inflation, exchange rates, and economic indicators across Latin America.
-
-**Tools:** Power BI, SQL, Economic Analysis, Dashboard Design
 
 ---
 
@@ -78,8 +70,8 @@ Interactive Power BI dashboards analyzing inflation, exchange rates, and economi
 
 | Language | Proficiency |
 |-----------|------------|
-| English | Native / Professional |
-| Spanish | Native / Professional |
+| English | Native |
+| Spanish | Native |
 | Portuguese | Fluent |
 | French | Intermediate |
 | German | Intermediate |
@@ -88,27 +80,26 @@ Interactive Power BI dashboards analyzing inflation, exchange rates, and economi
 
 ## Certifications
 
-- CFA Level I Candidate (2026)
-- AWS Certified Cloud Practitioner (Expected 2026)
-- Databricks Fundamentals Accreditation
-- Certified in Cybersecurity (CC)
-- Microsoft Azure Fundamentals
+- CFA Level I Candidate 2026
+- AWS Certified Cloud Practitioner 2026
+- Databricks Fundamentals Accreditation 
+- Certified in Cybersecurity (CC) 3036
+- Microsoft Azure Fundamentals 2026
 - Professional Leadership Certification, University of Oxford
 
 ---
 
 ## Beyond Analytics
 
-Outside of analytics, you'll usually find me:
+When I'm not working with data, you'll usually find me:
 
 - Training for a marathon
 - Learning a new language
-- Exploring a new city or country
-- Reading about economics, technology, and global affairs
-- Building communities and mentoring students
-
-I believe some of the most interesting insights come from combining ideas across disciplines, cultures, and experiences.
+- Exploring a new country
+- Reading about economics, finance, and technology
+- Mentoring students and empowering the latin american community
 
 ---
 
-> "The goal isn't just to analyze data. It's to understand the people, systems, and decisions behind it."
+> *"Not everything that can be counted counts, and not everything that counts can be counted."*  
+> — Albert Einstein
