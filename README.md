@@ -1,64 +1,114 @@
-# Hi, Hola, Bonjour, I'm Daniel 👋
+# Hi, Hola, Bonjour, I'm Daniel
 
-I'm a Latinx student, researcher, runner, and aspiring data scientist who enjoys using data to better understand people, economies, and the world around us.
+I'm passionate about understanding how data, people, and institutions shape the world around us.
 
-My journey has taken me from volunteering in communities across Latin America, to conducting research on governance and human rights, to building analytics dashboards and machine learning models. Along the way, I've learned that the most interesting problems are rarely just technical. They sit at the intersection of people, policy, business, and data.
+My journey has taken me from volunteering in communities across Latin America, to researching human rights and governance in Germany, to analyzing economic trends, building machine learning models, and creating data-driven solutions for organizations. Along the way, I've realized that the problems that interest me most rarely belong to a single discipline. They sit somewhere between data science, economics, public policy, business, and human behavior.
 
-I recently completed my studies in Statistics and Economics at the University of Toronto and am continuing my journey as a Master of Management in Analytics student at McGill University.
+I recently completed my studies in Statistics and Economics at the University of Toronto and am currently pursuing a Master of Management in Analytics at McGill University.
 
-When I'm not working with data, you'll probably find me training for a race, exploring a new country, learning a new language, or having conversations with people whose experiences are completely different from my own. Some of my best ideas have come from those moments.
+What excites me most about analytics is not the model itself, but the story behind it. Whether it's understanding why human rights defenders face greater risks, forecasting economic trends, analyzing financial markets, or helping organizations make better decisions, I enjoy using data to answer meaningful questions and uncover insights that might otherwise go unnoticed.
 
-## What I Care About
+Outside of academics and analytics, I'm a long-distance runner, language learner, traveler, and community builder. Running has taught me patience and resilience. Traveling has taught me perspective. Working with people from different backgrounds has taught me that some of the most valuable lessons come from conversations, not classrooms.
 
-* Using data to solve real-world problems
-* Machine learning and artificial intelligence
-* Financial analytics and economic research
-* Technology, innovation, and digital transformation
-* Building communities and creating opportunities for others
-* Lifelong learning and personal growth
+[![Website](https://img.shields.io/badge/Website-cudapuca.base44.app-black?style=for-the-badge)](https://cudapuca.base44.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Puente-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/danielpuente/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielpuent02@gmail.com)
+[![Instagram](https://img.shields.io/badge/Running-dandrunner-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dandrunner)
 
-## A Few Things About Me
+---
 
-🌎 I've traveled to more than 20 countries across North America, South America, and Europe.
+## Interests
 
-🏃 I've completed multiple marathons and half-marathons, and running has taught me many of the lessons I apply to my academic and professional life: consistency, discipline, patience, and resilience.
+- Data Science, Machine Learning, and Artificial Intelligence
+- Financial Analytics and Quantitative Finance
+- Economic Research and Forecasting
+- Public Policy and Social Impact
+- Technology and Digital Transformation
+- Leadership, Mentorship, and Community Building
 
-🎓 University of Toronto graduate in Statistics and Economics.
+---
 
-📈 Now Master of Management in Analytics (MMA) student at McGill University.
+## Background
 
-🤝 Founder & President of the first ALPFA Toronto Student Chapter and President of the Organization of Latin American Students (OLAS).
+- Statistics & Economics Graduate, University of Toronto
+- Master of Management in Analytics (MMA), McGill University
+- Research Fellow, Goethe University Frankfurt & Peace Research Institute Frankfurt (PRIF)
+- Founder & President, ALPFA Toronto Student Chapter
+- President, Organization of Latin American Students (OLAS)
+- Research Assistant, University of Toronto
+- Data Analyst and Macroeconomic Research Experience Across Multiple Organizations
 
-🌍 Fluent in English, Spanish, and Portuguese, with intermediate French and German.
+---
 
 ## Featured Projects
 
-### Human Rights Activist Risk Prediction
+### Violence Against Human Rights Defenders
 
-Research and machine learning project examining patterns of violence against human rights defenders across the world.
+International research project conducted in Germany combining machine learning, econometrics, and public policy to analyze patterns of violence against human rights activists around the world.
+
+**Tools:** Python, Machine Learning, Econometrics, Data Visualization, Random Forest, GEE Models
+
+### Macroeconomic Forecasting with VAR, VECM, and Threshold Models
+
+Econometric forecasting project exploring long-run relationships between GDP, inflation, unemployment, and interest rates using advanced time-series methods.
+
+**Tools:** Python, R, VAR, VECM, TVAR, Cointegration Analysis
+
+### Portfolio Risk Management and Optimization
+
+Quantitative finance project focused on volatility forecasting, Value at Risk (VaR), Expected Shortfall, and portfolio optimization using GARCH and DCC-GARCH models.
+
+**Tools:** R, GARCH, DCC-GARCH, Portfolio Optimization, Risk Analytics
+
+### Education, Income, and Geography in Canada
+
+Data storytelling project using Statistics Canada Census data to explore how location influences the economic returns to education across Canada.
+
+**Tools:** R, Data Visualization, Survey Statistics, Public Policy Analytics
 
 ### Latin America Macroeconomic Dashboard
 
-Interactive dashboards analyzing economic trends, inflation, and financial indicators across Latin America.
+Interactive Power BI dashboards analyzing inflation, exchange rates, and economic indicators across Latin America.
 
-### LinkedIn Advertising Analytics
+**Tools:** Power BI, SQL, Economic Analysis, Dashboard Design
 
-Automated reporting and business intelligence dashboards designed to support data-driven decision making.
+---
 
-### Running Analytics
+## Languages
 
-A personal project where I combine my passion for running and data by analyzing training performance, race outcomes, and long-term progress.
+| Language | Proficiency |
+|-----------|------------|
+| English | Native / Professional |
+| Spanish | Native / Professional |
+| Portuguese | Fluent |
+| French | Intermediate |
+| German | Intermediate |
 
-## Current Interests
+---
 
-I'm particularly interested in opportunities at the intersection of analytics, strategy, finance, and emerging technologies. My goal is to build a career where I can combine technical skills with leadership, communication, and a global perspective.
+## Certifications
 
-## Let's Connect
+- CFA Level I Candidate (2026)
+- AWS Certified Cloud Practitioner (Expected 2026)
+- Databricks Fundamentals Accreditation
+- Certified in Cybersecurity (CC)
+- Microsoft Azure Fundamentals
+- Professional Leadership Certification, University of Oxford
 
-🌐 Website: https://cudapuca.base44.app
+---
 
-💼 LinkedIn: https://www.linkedin.com/in/danielpuent
+## Beyond Analytics
 
-📧 Email: [danielpuent02@gmail.com](mailto:danielpuent02@gmail.com)
+Outside of analytics, you'll usually find me:
 
-Thanks for stopping by!
+- Training for a marathon
+- Learning a new language
+- Exploring a new city or country
+- Reading about economics, technology, and global affairs
+- Building communities and mentoring students
+
+I believe some of the most interesting insights come from combining ideas across disciplines, cultures, and experiences.
+
+---
+
+> "The goal isn't just to analyze data. It's to understand the people, systems, and decisions behind it."
