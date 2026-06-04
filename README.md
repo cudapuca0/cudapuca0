@@ -1,6 +1,6 @@
 # Hi, Hola, Bonjour, I'm Daniel 👋
 
-I'm a Mexican student, researcher, runner, and aspiring data scientist who enjoys using data to better understand people, economies, and the world around us.
+I'm a Latinx student, researcher, runner, and aspiring data scientist who enjoys using data to better understand people, economies, and the world around us.
 
 My journey has taken me from volunteering in communities across Latin America, to conducting research on governance and human rights, to building analytics dashboards and machine learning models. Along the way, I've learned that the most interesting problems are rarely just technical. They sit at the intersection of people, policy, business, and data.
 
