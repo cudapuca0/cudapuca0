@@ -31,7 +31,6 @@ Outside of analytics, I'm a marathon runner, traveler, language learner, and com
 - Master of Management in Analytics (MMA), McGill University
 - Statistics & Economics Graduate, University of Toronto
 - Research Fellow, Goethe University Frankfurt & Peace Research Institute Frankfurt (PRIF)
-- Founder & President, ALPFA Toronto Student Chapter
 - President, Organization of Latin American Students (OLAS)
 - Research Assistant, University of Toronto
 - Macroeconomic Research Analyst & Data Analyst
