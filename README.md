@@ -39,6 +39,14 @@ Outside of analytics, I'm a marathon runner, traveler, language learner, and com
 
 ## Featured Projects here :)
 
+### 🥉 Second Look: AI Pre-Trade Check for Investors (3rd place / 78 teams)
+
+Built in a team of four for the **PolyFinances Datathon 2026** (National Bank × AWS). Second Look pauses a trade that breaks the investor's own profile, goals or values. A deterministic rule engine flags it green, yellow or red, and AI agents on Amazon Bedrock explain why with dated evidence and talk it through with the investor, without ever changing the verdict. I built the interface (asset picker, red-flag review, risk mix dial) and wrote the validation of results.
+
+**Tools:** Python, Amazon Bedrock, AI Agents, AWS Lambda, Bedrock Guardrails, JavaScript, UX/UI
+
+[Code](https://github.com/cudapuca0/second-look-datathon) · [Demo video](https://youtu.be/UqbCAich9a0)
+
 ### Violence Against Human Rights Defenders
 
 International research project conducted in Germany combining machine learning, econometrics, and public policy to analyze patterns of violence against human rights activists worldwide.
